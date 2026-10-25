@@ -31,7 +31,7 @@
 
 
 ## Project Documentation
-[Website Page Designs](page_designs.md)
+[Website Page Designs](page_designs.md) <br>
 [Database Table Designs](db_tables.md)
 
 ## Color Palette:
