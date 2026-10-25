@@ -34,3 +34,9 @@
 [Website Page Designs](page_designs.md)
 [Database Table Designs](db_tables.md)
 
+## Color Palette:
+- **Primary:** Ocean Blue (#245F96)
+- **Secondary:** White (#FFFFFF)
+- **Accent:** Forest Green (#347C26)
+- **Text:** Black (#000000)
+- **Background:** White (#FFFFFF)
