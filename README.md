@@ -28,3 +28,9 @@
 ### Administrator pages:
 - Dashboard - purchase history
 - Stock editing
+
+
+## Project Documentation
+[Website Page Designs](page_designs.md)
+[Database Table Designs](db_tables.md)
+
