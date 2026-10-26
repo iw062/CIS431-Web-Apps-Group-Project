@@ -1,8 +1,5 @@
 # CIS431-Web-Apps-Group-Project
 
-##Fish Mart
-
-
 ## Group members
 - Isaac Worner
 - Ryan Zetterberg
