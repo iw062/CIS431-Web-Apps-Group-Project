@@ -9,7 +9,7 @@
 - **Business Name**: Fishy Business
 - **What we Do**: Sell fish
 - **Products**: We work with fish
-- **Who would Use Fishy Business?**: People who want to by live or dead fish
+- **Who would Use Fishy Business?**: People who want to buy live or dead fish
 - **Purpose of the Site**: Buy fish
 
 **Data we need to store**: Fish.
